@@ -7,8 +7,8 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Nan Lin
-  avatar: NanLin.jpg
-  bio: "This is a sample Jekyll academic website."
+  avatar: images/NanLin.jpg
+  bio: "Data, Statistics, Inference, Knowledge."
   email: nlin@wustl.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
