@@ -7,8 +7,11 @@ Nan Lin is Professor in the Department of Mathematics and Statistics at Washingt
 
 He earned a B.S. (1999) from [University of Science and Technology of China](https://ustc.edu.cn/), a M.S. (2000) and Ph.D. (2003) in Statistics, and a second M.S. (2003) in Finance from University of Illinois at Urbana-Champaign. Before joining Washington University, he was a postdoctoral associate (2003-2004) at the Center for Statistical Genomics and Proteomics, Yale University.
 
-## Current Interests and Projects:
+## Research Interests:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Big data
+- Quantile regression
+- Bioinformatics
+- Bayesian statistics
+- Longitudinal data and functional data analysis
+- Statistical applications in anesthesiology and genomics
