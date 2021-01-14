@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Professor, Department of Mathematics and Statistics, Washington University in St. Louis
 
 ## Education
 
@@ -22,7 +22,7 @@ Name of Award, Organization
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en) -->
 
 ### Journals
 
