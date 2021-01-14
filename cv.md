@@ -7,13 +7,13 @@ Professor, Department of Mathematics and Statistics, Washington University in St
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1999 - 2003`
+__University of Illinois at Urbna-Champaign__
+Ph.D.
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1994 - 1999`
+__University of Science and Technology of China__
+Bachelor 
 
 ## Awards
 
