@@ -17,12 +17,12 @@ Bachelor
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+The most promising paper published in Bayesian Analysis in the last five years, The International Society for Bayesian Analysis
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en) -->
+A list is also available [Google Scholar](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en)
 
 ### Journals
 
@@ -65,6 +65,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2021 -->
 
 
