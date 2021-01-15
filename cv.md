@@ -9,16 +9,20 @@ Professor, Department of Mathematics and Statistics, Washington University in St
 
 `1999 - 2003`
 __University of Illinois at Urbna-Champaign__
-Ph.D.
+Ph.D. in Statistics
 
 `1994 - 1999`
 __University of Science and Technology of China__
-Bachelor 
+Bachelor in Computer Science
 
 ## Awards
 
 `2016`
 The most promising paper published in Bayesian Analysis in the last five years, The International Society for Bayesian Analysis
+
+'2007'
+Special Recognition for Outstanding Mentors, College of Arts and Sciences, Washington University in St. Louis
+
 
 ## Selected Publications
 
