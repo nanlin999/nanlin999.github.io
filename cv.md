@@ -20,17 +20,17 @@ Bachelor
 `2016`
 The most promising paper published in Bayesian Analysis in the last five years, The International Society for Bayesian Analysis
 
-## Publications
+## Selected Publications
 
-A list is also available [Google Scholar](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en)
+A complete list is available at [Google Scholar](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en)
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2006`
+Lin, N. and He, X., Robust and efficient estimation under data grouping, *Biometrika*, 93 (1), 99-112.
 
-`1994`
-Article Title, Journal Title
+`2004`
+Lin, N., Wu, B., Jansen, R., Gerstein, M. and Zhao, H., Information assessment on predicting protein-protein interactions, *BMC Bioinformatics*, 5: 154.
 
 ### Books
 
