@@ -58,6 +58,15 @@ Zhang, B.^, Zhou, Y.^, Lin, N.^, Lowdon, R. F.^, Hong, C., Nagarajan, R. P., Che
 `2011`
 Lin, N. and Xi, R. (2011), Aggregated estimating equation estimation, *Statistics and Its Interface*, 4, 73-84.
 
+`2010`
+Li, Q., Xi, R. and Lin, N., Bayesian regularized quantile regression, *Bayesian Analysis*, 5,533-556. [**computer codes**](https://sites.wustl.edu/nanlin/files/2020/05/code.zip)
+
+`2010`
+Li, Q. and Lin, N., The Bayesian elastic net, *Bayesian Analysis*, 5,151-170. [**computer codes**](https://sites.wustl.edu/nanlin/files/2020/05/BEN-codes.zip)
+
+`2009`
+Xi, R., Lin, N. and Chen, Y., Compression and aggregation for logistic regression analysis in data cubes, *IEEE Transactions on Knowledge and Data Engineering*, 21(4), 479-492.
+
 `2006`
 Lin, N. and He, X., Robust and efficient estimation under data grouping, *Biometrika*, 93 (1), 99-112.
 
