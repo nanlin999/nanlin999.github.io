@@ -35,13 +35,16 @@ Special Recognition for Outstanding Mentors, College of Arts and Sciences, Washi
 
 ## Selected Publications
 
-A complete list is available at [Google Scholar](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en)
+See [Google Scholar](https://scholar.google.com/citations?user=d4v56osAAAAJ&hl=en) for a complete list of publications.
+
+`2020+`
+Fan, Y., Lin, N. and Yin, X., [Penalized Quantile Regression for Distributed Big Data Using the Slack Variable Representation](https://doi.org/10.1080/10618600.2020.1840996), *Journal of Computational and Graphical Statistics*, in press.
 
 `2020`
 Wang, W., Lin, N., Oberhaus, J. and Avidan, M. S. (2020) Assessing method agreement for paired repeated binary measurements administered by multiple raters, *Statistics in Medicine*, 39, 279-293.
 
 `2019`
-Dai, X., Lin, N., Li, D. and Wang, T., A non-randomized procedure for large-scale heterogeneous multiple discrete testing based on randomized tests, *Biometrics*, 75, 638-649. [computer codes](https://github.com/nanlin999/Xiaoyu-Dai-Code/tree/master/MCF-multtest)
+Dai, X., Lin, N., Li, D. and Wang, T., A non-randomized procedure for large-scale heterogeneous multiple discrete testing based on randomized tests, *Biometrics*, 75, 638-649. [**computer codes**](https://github.com/nanlin999/Xiaoyu-Dai-Code/tree/master/MCF-multtest)
 
 `2017`
 Yu, L., Lin, N. and Wang, L., A parallel algorithm for large-scale nonconvex penalized quantile regression. *Journal of Computational and Graphical Statistics*, 26(4), 935-939.
